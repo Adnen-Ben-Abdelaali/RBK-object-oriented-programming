@@ -1,1 +1,3 @@
-# RBK-object-oriented-programming
+# RBK-object-oriented-programming 
+
+Object oriented programming exercices with javascript
